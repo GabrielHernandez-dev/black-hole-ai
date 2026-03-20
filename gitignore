@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Docker
+.docker/
+
+# Editor
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS
+.DS_Store
